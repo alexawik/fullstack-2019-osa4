@@ -1,1 +1,3 @@
-# fullstack-2019-osa4
+# Fullstack osa 4
+
+Repositorio kurssin neljännelle osalle
