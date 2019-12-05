@@ -1,0 +1,6 @@
+DELETE http://localhost:3003/api/blogs/5de79caae9ecbe3b608b3fd7
+Content-Type: application/json
+
+{
+  "user": "5ddfbb9153367326d46610c8"    
+}

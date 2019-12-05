@@ -1,9 +1,11 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1haWp1IiwiaWQiOiI1ZGRmYmI5MTUzMzY3MzI2ZDQ2NjEwYzgiLCJpYXQiOjE1NzU1NDUxNjh9.ppNf4rUHFyvuLZu0aiokqbW9joJYJaqeDJikQmdRp_U
 
 {
-  "title": "Parhaat vesitornit",
-  "author": "Rinna",
-  "url": "vesitornit.blogit.fi",
-  "likes": 20
+  "title": "Winging it",
+  "author": "Larry Bird",
+  "url": "http://mamamama.com",
+  "likes": 1,
+  "user": "5ddfbb9153367326d46610c8"
 }

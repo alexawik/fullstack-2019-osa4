@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/5ddbe2344aa2ad3cd446d8ab
+Content-Type: application/json
+
+{
+  "title": "Elämäm käpyjä",
+  "author": "Teija-Riitta",
+  "url": "http://elamamkapyja.viisaudet.fi",
+  "likes": 100,
+  "userId": "5dde444a8fea002bb035deb6"
+}
